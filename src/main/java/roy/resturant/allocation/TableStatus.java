@@ -1,6 +1,6 @@
 package roy.resturant.allocation;
 
-public enum TableType {
+public enum TableStatus {
     Empty,
-    Booked
+    Filled
 }

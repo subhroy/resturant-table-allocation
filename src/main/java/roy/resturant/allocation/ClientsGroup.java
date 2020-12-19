@@ -1,5 +1,14 @@
 package roy.resturant.allocation;
 
-public class ClientsGroup {
 
+import lombok.Getter;
+import lombok.NoArgsConstructor;
+import lombok.Setter;
+
+@Getter
+@Setter
+@NoArgsConstructor
+public class ClientsGroup {
+    private int grpSize;
+    private String grpStatus;
 }

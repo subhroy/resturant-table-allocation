@@ -12,6 +12,7 @@ public class RestManager {
     public void onArrive (ClientsGroup group)
     {
         // TODO
+
     }
 
     // client(s) leave, either served or simply abandoning the queue
